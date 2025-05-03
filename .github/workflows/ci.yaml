@@ -5,7 +5,7 @@ on:
       - develop
 
 jobs:
-  check-aplication:
+  check-application:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
